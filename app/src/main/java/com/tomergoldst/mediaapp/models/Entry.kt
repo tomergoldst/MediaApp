@@ -1,8 +1,6 @@
 package com.tomergoldst.mediaapp.models
 
-import android.provider.SyncStateContract
 import com.google.gson.annotations.SerializedName
-import com.tomergoldst.mediaapp.config.Constants
 
 data class Entry(
 

@@ -4,7 +4,7 @@ import android.view.ViewGroup
 import androidx.recyclerview.widget.DiffUtil
 import androidx.recyclerview.widget.ListAdapter
 import androidx.recyclerview.widget.RecyclerView
-import com.tomergoldst.mediaapp.config.Constants
+import com.tomergoldst.mediaapp.data.remote.Constants
 import com.tomergoldst.mediaapp.models.Entry
 import java.lang.RuntimeException
 
