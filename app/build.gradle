@@ -57,6 +57,9 @@ dependencies {
     implementation "org.koin:koin-core:2.0.1"
     // Koin AndroidX ViewModel features
     implementation "org.koin:koin-androidx-viewmodel:2.0.1"
+    // Koin for tests
+    testImplementation 'org.koin:koin-test:2.0.1'
+
 
     // Espresso dependencies
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
