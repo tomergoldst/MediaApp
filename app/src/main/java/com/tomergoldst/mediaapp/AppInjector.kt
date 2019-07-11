@@ -16,8 +16,8 @@ private val mediaService: MediaService = retrofit.create(MediaService::class.jav
 
 val appModule: Module = module {
     single { mediaService }
-    single { MediaRemoteDataSource( mediaService = get()) }
-    single { Repository(mediaRemoteService = get() as DataSource) }
-    viewModel { MainViewModel(repository = get() as DataSource) }
+    single { MediaRemoteDataSource( mediaService = get()) as DataSource }
+    single { Repository(mediaRemoteService = get()) }
+    viewModel { MainViewModel(repository = get()) }
 }
 
