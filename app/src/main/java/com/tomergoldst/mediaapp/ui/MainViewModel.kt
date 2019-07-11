@@ -27,8 +27,6 @@ class MainViewModel(
     val eventPlayVideo: LiveData<Boolean>
         get() = _eventPlayVideo
 
-    var queryChanged = false
-
     init {
         _eventOpenLink.value = false
         _eventPlayVideo.value = false
