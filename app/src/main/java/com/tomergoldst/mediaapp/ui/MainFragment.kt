@@ -6,18 +6,18 @@ import android.view.*
 import androidx.appcompat.widget.SearchView
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.Observer
-import androidx.lifecycle.ViewModelProviders
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.tomergoldst.mediaapp.models.Entry
-import com.tomergoldst.mediaapp.utils.InjectorUtils
 import com.tomergoldst.mediaapp.utils.dp2Px
 import kotlinx.android.synthetic.main.fragment_main.*
+import org.koin.androidx.viewmodel.ext.android.viewModel
 
 
 class MainFragment : Fragment() {
 
-    private lateinit var mViewModel: MainViewModel
+    private val mViewModel by viewModel<MainViewModel>()
+
     private lateinit var mAdapter: EntriesListAdapter
 
     private val adapterListener = object : EntriesListAdapter.OnAdapterInteractionListener {
@@ -28,14 +28,6 @@ class MainFragment : Fragment() {
                 mViewModel.onVideoClicked(entry)
             }
         }
-    }
-
-    override fun onCreate(savedInstanceState: Bundle?) {
-        super.onCreate(savedInstanceState)
-
-        mViewModel = ViewModelProviders.of(this, InjectorUtils.getViewModelProvider())
-            .get(MainViewModel::class.java)
-
     }
 
     override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?, savedInstanceState: Bundle?): View? {

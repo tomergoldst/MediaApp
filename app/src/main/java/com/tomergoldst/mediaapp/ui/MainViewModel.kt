@@ -33,7 +33,7 @@ class MainViewModel(
         _eventOpenLink.value = false
         _eventPlayVideo.value = false
 
-        repository.getMediaEntries(object : DataSource.GetMediaEntriesCallback{
+        repository.getMediaEntries(object : DataSource.GetMediaEntriesCallback {
             override fun onEntriesLoaded(entries: List<Entry>) {
                 rawEntries = entries
                 _entries.value = entries
@@ -45,28 +45,28 @@ class MainViewModel(
         })
     }
 
-    fun onLinkClicked(entry: Entry){
+    fun onLinkClicked(entry: Entry) {
         selectedEntry = entry
         _eventOpenLink.value = true
     }
 
-    fun onLinkClickedCompleted(){
+    fun onLinkClickedCompleted() {
         _eventOpenLink.value = false
         selectedEntry = null
     }
 
-    fun onVideoClicked(entry: Entry){
+    fun onVideoClicked(entry: Entry) {
         selectedEntry = entry
         _eventPlayVideo.value = true
     }
 
-    fun onVideoClickedCompleted(){
+    fun onVideoClickedCompleted() {
         _eventPlayVideo.value = false
         selectedEntry = null
     }
 
-    fun onQueryTextChange(newText: String?){
-        if (newText == null){
+    fun onQueryTextChange(newText: String?) {
+        if (newText == null) {
             _entries.value = rawEntries
         } else {
             _entries.value = rawEntries.filter { it.title.contains(newText) }

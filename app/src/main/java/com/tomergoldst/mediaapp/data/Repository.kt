@@ -2,20 +2,7 @@ package com.tomergoldst.mediaapp.data
 
 import com.tomergoldst.mediaapp.models.Entry
 
-class Repository private constructor(private val mediaRemoteService: DataSource) : DataSource {
-
-    companion object {
-
-        @Volatile
-        private var INSTANCE: Repository? = null
-
-        fun getInstance(mediaRemoteService: DataSource):
-                Repository =
-            INSTANCE ?: synchronized(this) {
-                INSTANCE ?: Repository(mediaRemoteService).also { INSTANCE = it }
-            }
-
-    }
+class Repository(private val mediaRemoteService: DataSource) : DataSource {
 
     override fun getMediaEntries(callback: DataSource.GetMediaEntriesCallback) {
         mediaRemoteService.getMediaEntries(object : DataSource.GetMediaEntriesCallback{
