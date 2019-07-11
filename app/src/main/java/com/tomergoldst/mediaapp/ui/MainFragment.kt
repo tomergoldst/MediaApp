@@ -35,6 +35,7 @@ class MainFragment : Fragment() {
     }
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
+        // show loading indicator
         fragmentMainClpb.show()
 
         mAdapter = EntriesListAdapter(adapterListener)
@@ -45,8 +46,11 @@ class MainFragment : Fragment() {
         }
 
         mViewModel.entries.observe(viewLifecycleOwner, Observer {
+            // hide loading indicator
             fragmentMainClpb.hide()
+            // update adapter
             mAdapter.submitList(it)
+            // going back to position zero in order to support changes in search query
             mAdapter.registerAdapterDataObserver(object : RecyclerView.AdapterDataObserver() {
                 override fun onItemRangeInserted(positionStart: Int, itemCount: Int) {
                     super.onItemRangeInserted(positionStart, itemCount)
