@@ -1,7 +1,7 @@
 package com.tomergoldst.mediaapp.models
 
 import com.google.gson.annotations.SerializedName
-import com.tomergoldst.mediaapp.config.Constants
+import com.tomergoldst.mediaapp.data.remote.Constants
 
 data class Type(
 

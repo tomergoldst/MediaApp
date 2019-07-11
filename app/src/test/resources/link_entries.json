@@ -1,0 +1,1252 @@
+{
+  "xmlns:applicaster": "http://schemas.applicaster.com/atom/1",
+  "xmlns": "http://www.w3.org/2005/Atom",
+  "xml:lang": "en-us",
+  "title": "בחירות 2019",
+  "subtitle": "בחירות 2019",
+  "link": {
+    "rel": "self",
+    "type": "atom",
+    "href": "http://www.example.com/news_feed.atom"
+  },
+  "updated": "",
+  "id": "בחירות 2019",
+  "author": {
+    "name": "בחירות 2019"
+  },
+  "entry": [
+    {
+      "type": {
+        "value": "link"
+      },
+      "title": "נתניהו בראיון: \"מאשימים אותי בבגידה? את כולם אני אתבע\"",
+      "summary": "ראש הממשלה סבור כי הרמטכ\"לים לשעבר של 'כחול לבן' יודעים שלא קיבל כסף ממכירת צוללות ומשיב אש: \"אותי אתם מאשימים בבגידה? את מי שנלחם נגד כל העולם כדי למנוע מאיראן את ההסכם שאתם תמכתם בו?\" | הראיון המלא הערב בחדשות 20",
+      "id": "343297",
+      "published": "",
+      "updated": "",
+      "content": {
+        "content": "ראש הממשלה סבור כי הרמטכ\"לים לשעבר של 'כחול לבן' יודעים שלא קיבל כסף ממכירת צוללות ומשיב אש: \"אותי אתם מאשימים בבגידה? את מי שנלחם נגד כל העולם כדי למנוע מאיראן את ההסכם שאתם תמכתם בו?\" | הראיון המלא הערב בחדשות 20",
+        "type": "html"
+      },
+      "link": {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.20il.co.il/mobile-post/?id=343297&native=true&shareable=true&showcontext=true&title=%D7%90%D7%A7%D7%98%D7%95%D7%90%D7%9C%D7%99%D7%94%20%D7%95%D7%97%D7%93%D7%A9%D7%95%D7%AA"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://www.20il.co.il/wp-content/uploads/2019/03/%D7%A0%D7%AA%D7%A0%D7%99%D7%94%D7%95-%D7%91%D7%A8%D7%90%D7%99%D7%95%D7%9F-1270x714.jpg",
+              "type": "image",
+              "scale": "small",
+              "key": "image_base"
+            },
+            {
+              "src": "https://www.20il.co.il/wp-content/uploads/2019/03/%D7%A0%D7%AA%D7%A0%D7%99%D7%94%D7%95-%D7%91%D7%A8%D7%90%D7%99%D7%95%D7%9F-1270x714.jpg",
+              "type": "image",
+              "scale": "large",
+              "key": "image_base_2"
+            }
+          ]
+        }
+      ],
+      "author": {
+        "name": ""
+      }
+    },
+    {
+      "type": {
+        "value": "link"
+      },
+      "title": "'ישראל ביתנו' עונים לדרעי: \"גאים בשורשים שלנו\"",
+      "summary": "בסרטון בחירות חדש מובאים דבריו של דרעי בעניין העלייה הרוסית, כאשר ברקע מוזכרים חמישה ראשי ממשלה יוצאי ברית המועצות לשעבר:\"דוד בן גוריון, נולד ברוסיה\"",
+      "id": "343128",
+      "published": "",
+      "updated": "",
+      "content": {
+        "content": "בסרטון בחירות חדש מובאים דבריו של דרעי בעניין העלייה הרוסית, כאשר ברקע מוזכרים חמישה ראשי ממשלה יוצאי ברית המועצות לשעבר:\"דוד בן גוריון, נולד ברוסיה\"",
+        "type": "html"
+      },
+      "link": {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.20il.co.il/mobile-post/?id=343128&native=true&shareable=true&showcontext=true&title=%D7%91%D7%97%D7%99%D7%A8%D7%95%D7%AA%202019"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://www.20il.co.il/wp-content/uploads/2019/03/%D7%91%D7%99%D7%AA%D7%A0%D7%95-1270x714.png",
+              "type": "image",
+              "scale": "small",
+              "key": "image_base"
+            },
+            {
+              "src": "https://www.20il.co.il/wp-content/uploads/2019/03/%D7%91%D7%99%D7%AA%D7%A0%D7%95-1270x714.png",
+              "type": "image",
+              "scale": "large",
+              "key": "image_base_2"
+            }
+          ]
+        }
+      ],
+      "author": {
+        "name": ""
+      }
+    },
+    {
+      "type": {
+        "value": "link"
+      },
+      "title": "בל\"ד מצהירים: \"נשנה את דמותה הגזענית של המדינה\"",
+      "summary": "ראש רשימת רע\"ם-בל\"ד מטנאס שחאדה התפאר באירוע בחירות ביפו כי מפלגתו היא \"היחידה שמציגה אלטרנטיבה של ממש ותכנית אופרטיבית לשינוי אופיו האנטי דמוקרטי של השלטון\"",
+      "id": "343127",
+      "published": "",
+      "updated": "",
+      "content": {
+        "content": "ראש רשימת רע\"ם-בל\"ד מטנאס שחאדה התפאר באירוע בחירות ביפו כי מפלגתו היא \"היחידה שמציגה אלטרנטיבה של ממש ותכנית אופרטיבית לשינוי אופיו האנטי דמוקרטי של השלטון\"",
+        "type": "html"
+      },
+      "link": {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.20il.co.il/mobile-post/?id=343127&native=true&shareable=true&showcontext=true&title=%D7%91%D7%97%D7%99%D7%A8%D7%95%D7%AA%202019"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://www.20il.co.il/wp-content/uploads/2019/03/222-1270x714.jpeg",
+              "type": "image",
+              "scale": "small",
+              "key": "image_base"
+            },
+            {
+              "src": "https://www.20il.co.il/wp-content/uploads/2019/03/222-1270x714.jpeg",
+              "type": "image",
+              "scale": "large",
+              "key": "image_base_2"
+            }
+          ]
+        }
+      ],
+      "author": {
+        "name": ""
+      }
+    },
+    {
+      "type": {
+        "value": "link"
+      },
+      "title": "אמיר איבגי: \"להפסיק לספור ראשים של אשכנזים ומזרחים ברשימות\"",
+      "summary": "דיון סוער בעקבות קמפיין מפלגת 'העבודה' שמאשים את יו\"ר הליכוד ורה\"מ בנימין נתניהו בגזענות. מזכ\"ל העבודה ערן חרמוני: \"המוצא לא יכול להיות חסם\"",
+      "id": "342696",
+      "published": "",
+      "updated": "",
+      "content": {
+        "content": "דיון סוער בעקבות קמפיין מפלגת 'העבודה' שמאשים את יו\"ר הליכוד ורה\"מ בנימין נתניהו בגזענות. מזכ\"ל העבודה ערן חרמוני: \"המוצא לא יכול להיות חסם\"",
+        "type": "html"
+      },
+      "link": {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.20il.co.il/mobile-post/?id=342696&native=true&shareable=true&showcontext=true&title=%D7%91%D7%97%D7%99%D7%A8%D7%95%D7%AA%202019"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://www.20il.co.il/wp-content/uploads/2019/03/%D7%91%D7%95%D7%97%D7%A8%D7%99%D7%9D.jpg",
+              "type": "image",
+              "scale": "small",
+              "key": "image_base"
+            },
+            {
+              "src": "https://www.20il.co.il/wp-content/uploads/2019/03/%D7%91%D7%95%D7%97%D7%A8%D7%99%D7%9D.jpg",
+              "type": "image",
+              "scale": "large",
+              "key": "image_base_2"
+            }
+          ]
+        }
+      ],
+      "author": {
+        "name": ""
+      }
+    },
+    {
+      "type": {
+        "value": "link"
+      },
+      "title": "חזן: \"מגילת אסתר לא הייתה עוברת היום בג\"ץ\"",
+      "summary": "יו\"ר מפלגת 'צומת', ח\"כ אורן חזן, טוען שהסקרים לא רלוונטיים, זוכה למפגש מפתיע וחושף: \"קיבלתי הצעות עבודה מפתות ובחרתי להמשיך לשרת את הציבור\"",
+      "id": "342580",
+      "published": "",
+      "updated": "",
+      "content": {
+        "content": "יו\"ר מפלגת 'צומת', ח\"כ אורן חזן, טוען שהסקרים לא רלוונטיים, זוכה למפגש מפתיע וחושף: \"קיבלתי הצעות עבודה מפתות ובחרתי להמשיך לשרת את הציבור\"",
+        "type": "html"
+      },
+      "link": {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.20il.co.il/mobile-post/?id=342580&native=true&shareable=true&showcontext=true&title=%D7%91%D7%97%D7%99%D7%A8%D7%95%D7%AA%202019"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://www.20il.co.il/wp-content/uploads/2019/03/%D7%9A%D7%AA.jpg",
+              "type": "image",
+              "scale": "small",
+              "key": "image_base"
+            },
+            {
+              "src": "https://www.20il.co.il/wp-content/uploads/2019/03/%D7%9A%D7%AA.jpg",
+              "type": "image",
+              "scale": "large",
+              "key": "image_base_2"
+            }
+          ]
+        }
+      ],
+      "author": {
+        "name": ""
+      }
+    },
+    {
+      "type": {
+        "value": "link"
+      },
+      "title": "צפו: רה\"מ נתניהו בסרטון פורים מיוחד",
+      "summary": "קרב הסרטונים בין הליכוד ומפלגת 'כחול לבן' נמשך ולרגל חג פורים פרסם ראש הממשלה סרטון בו נראים לפיד וגנץ כמי שמתחפשים לנתניהו",
+      "id": "341970",
+      "published": "",
+      "updated": "",
+      "content": {
+        "content": "קרב הסרטונים בין הליכוד ומפלגת 'כחול לבן' נמשך ולרגל חג פורים פרסם ראש הממשלה סרטון בו נראים לפיד וגנץ כמי שמתחפשים לנתניהו",
+        "type": "html"
+      },
+      "link": {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.20il.co.il/mobile-post/?id=341970&native=true&shareable=true&showcontext=true&title=%D7%91%D7%97%D7%99%D7%A8%D7%95%D7%AA%202019"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://www.20il.co.il/wp-content/uploads/2019/03/111-31.jpg",
+              "type": "image",
+              "scale": "small",
+              "key": "image_base"
+            },
+            {
+              "src": "https://www.20il.co.il/wp-content/uploads/2019/03/111-31.jpg",
+              "type": "image",
+              "scale": "large",
+              "key": "image_base_2"
+            }
+          ]
+        }
+      ],
+      "author": {
+        "name": ""
+      }
+    },
+    {
+      "type": {
+        "value": "link"
+      },
+      "title": "נתניהו לגנץ: \"תחשוף עכשיו בפני הציבור את הדברים\"",
+      "summary": "ראש הממשלה בנימין נתניהו הגיב על ההתפתחות בפרשה הצוללות ותקף את גנץ על רקע הפריצה האיראנית למכשיר הטלפון שלו: \"אין פה שום דבר חדש חוץ מהפאניקה של לפיד וגנץ בעקבות הפריצה לטלפון\"",
+      "id": "341750",
+      "published": "",
+      "updated": "",
+      "content": {
+        "content": "ראש הממשלה בנימין נתניהו הגיב על ההתפתחות בפרשה הצוללות ותקף את גנץ על רקע הפריצה האיראנית למכשיר הטלפון שלו: \"אין פה שום דבר חדש חוץ מהפאניקה של לפיד וגנץ בעקבות הפריצה לטלפון\"",
+        "type": "html"
+      },
+      "link": {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.20il.co.il/mobile-post/?id=341750&native=true&shareable=true&showcontext=true&title=%D7%90%D7%A7%D7%98%D7%95%D7%90%D7%9C%D7%99%D7%94%20%D7%95%D7%97%D7%93%D7%A9%D7%95%D7%AA"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://www.20il.co.il/wp-content/uploads/2019/03/%D7%A0%D7%AA%D7%A0%D7%99%D7%94.jpg",
+              "type": "image",
+              "scale": "small",
+              "key": "image_base"
+            },
+            {
+              "src": "https://www.20il.co.il/wp-content/uploads/2019/03/%D7%A0%D7%AA%D7%A0%D7%99%D7%94.jpg",
+              "type": "image",
+              "scale": "large",
+              "key": "image_base_2"
+            }
+          ]
+        }
+      ],
+      "author": {
+        "name": ""
+      }
+    },
+    {
+      "type": {
+        "value": "link"
+      },
+      "title": "מנדלבליט: בן גביר לא יקודם למקום ה-5 ברשימה המאוחדת",
+      "summary": "בעקבות פסילתו בבג\"ץ של ד\"ר מיכאל בן ארי, ביקשו ב'עוצמה יהודית' להבטיח את ייצוגם בכנסת ולעדכן את הרשימה. היועמ\"ש המליץ לוועדת הבחירות לדחות את הבקשה. המפלגה בתגובה: \"תראו מופתעים\"",
+      "id": "341708",
+      "published": "",
+      "updated": "",
+      "content": {
+        "content": "בעקבות פסילתו בבג\"ץ של ד\"ר מיכאל בן ארי, ביקשו ב'עוצמה יהודית' להבטיח את ייצוגם בכנסת ולעדכן את הרשימה. היועמ\"ש המליץ לוועדת הבחירות לדחות את הבקשה. המפלגה בתגובה: \"תראו מופתעים\"",
+        "type": "html"
+      },
+      "link": {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.20il.co.il/mobile-post/?id=341708&native=true&shareable=true&showcontext=true&title=%D7%91%D7%97%D7%99%D7%A8%D7%95%D7%AA%202019"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://www.20il.co.il/wp-content/uploads/2018/07/F160720YS06-1270x714.jpg",
+              "type": "image",
+              "scale": "small",
+              "key": "image_base"
+            },
+            {
+              "src": "https://www.20il.co.il/wp-content/uploads/2018/07/F160720YS06-1270x714.jpg",
+              "type": "image",
+              "scale": "large",
+              "key": "image_base_2"
+            }
+          ]
+        }
+      ],
+      "author": {
+        "name": ""
+      }
+    },
+    {
+      "type": {
+        "value": "link"
+      },
+      "title": "גנץ: \"אנחנו לא אנשים קיצוניים – דורשים הרתעה\"",
+      "summary": "יו\"ר 'כחול-לבן' בירך על תפיסת המחבל, מתח ביקורת על המדיניות הביטחונית של הממשלה והתייחס לפרשת הצוללות: \"מדובר בדרמה\"",
+      "id": "341606",
+      "published": "",
+      "updated": "",
+      "content": {
+        "content": "יו\"ר 'כחול-לבן' בירך על תפיסת המחבל, מתח ביקורת על המדיניות הביטחונית של הממשלה והתייחס לפרשת הצוללות: \"מדובר בדרמה\"",
+        "type": "html"
+      },
+      "link": {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.20il.co.il/mobile-post/?id=341606&native=true&shareable=true&showcontext=true&title=%D7%91%D7%97%D7%99%D7%A8%D7%95%D7%AA%202019"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://www.20il.co.il/wp-content/uploads/2019/02/%D7%92%D7%A0%D7%A5-F190228FFFF005-1270x714.jpg",
+              "type": "image",
+              "scale": "small",
+              "key": "image_base"
+            },
+            {
+              "src": "https://www.20il.co.il/wp-content/uploads/2019/02/%D7%92%D7%A0%D7%A5-F190228FFFF005-1270x714.jpg",
+              "type": "image",
+              "scale": "large",
+              "key": "image_base_2"
+            }
+          ]
+        }
+      ],
+      "author": {
+        "name": ""
+      }
+    },
+    {
+      "type": {
+        "value": "link"
+      },
+      "title": "צפו: כשלפיד וגנץ הגיעו ל\"ראיון עבודה\"",
+      "summary": "מפלגת 'הליכוד' תוקפת בסרטון חדש את ראשי מפלגת 'כחול לבן', בני גנץ ויאיר לפיד, על התמודדותם לראשות הממשלה על אף חוסר ניסיונם",
+      "id": "341213",
+      "published": "",
+      "updated": "",
+      "content": {
+        "content": "מפלגת 'הליכוד' תוקפת בסרטון חדש את ראשי מפלגת 'כחול לבן', בני גנץ ויאיר לפיד, על התמודדותם לראשות הממשלה על אף חוסר ניסיונם",
+        "type": "html"
+      },
+      "link": {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.20il.co.il/mobile-post/?id=341213&native=true&shareable=true&showcontext=true&title=%D7%91%D7%97%D7%99%D7%A8%D7%95%D7%AA%202019"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://www.20il.co.il/wp-content/uploads/2019/03/%D7%92%D7%A0%D7%A5-%D7%9C%D7%A4%D7%99%D7%93-%D7%91%D7%A8%D7%90%D7%99%D7%95%D7%9F.jpg",
+              "type": "image",
+              "scale": "small",
+              "key": "image_base"
+            },
+            {
+              "src": "https://www.20il.co.il/wp-content/uploads/2019/03/%D7%92%D7%A0%D7%A5-%D7%9C%D7%A4%D7%99%D7%93-%D7%91%D7%A8%D7%90%D7%99%D7%95%D7%9F.jpg",
+              "type": "image",
+              "scale": "large",
+              "key": "image_base_2"
+            }
+          ]
+        }
+      ],
+      "author": {
+        "name": ""
+      }
+    },
+    {
+      "type": {
+        "value": "link"
+      },
+      "title": "גנץ: \"התחפשתי לביבי\"",
+      "summary": "הרמטכ\"ל לשעבר ויו\"ר מפלגת 'כחול לבן' התארח באחד מבתי הספר בארץ וכשנשאל למה הוא התחפש השנה הוא ענה: \"לביבי\"",
+      "id": "341196",
+      "published": "",
+      "updated": "",
+      "content": {
+        "content": "הרמטכ\"ל לשעבר ויו\"ר מפלגת 'כחול לבן' התארח באחד מבתי הספר בארץ וכשנשאל למה הוא התחפש השנה הוא ענה: \"לביבי\"",
+        "type": "html"
+      },
+      "link": {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.20il.co.il/mobile-post/?id=341196&native=true&shareable=true&showcontext=true&title=%D7%91%D7%97%D7%99%D7%A8%D7%95%D7%AA%202019"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://www.20il.co.il/wp-content/uploads/2019/03/%D7%92%D7%A0%D7%A5%D7%91%D7%99%D7%91%D7%99-1270x714.png",
+              "type": "image",
+              "scale": "small",
+              "key": "image_base"
+            },
+            {
+              "src": "https://www.20il.co.il/wp-content/uploads/2019/03/%D7%92%D7%A0%D7%A5%D7%91%D7%99%D7%91%D7%99-1270x714.png",
+              "type": "image",
+              "scale": "large",
+              "key": "image_base_2"
+            }
+          ]
+        }
+      ],
+      "author": {
+        "name": ""
+      }
+    },
+    {
+      "type": {
+        "value": "link"
+      },
+      "title": "גליק: \"פייגלין פונה לקהל שרואה את העולם בצורה בינארית\"",
+      "summary": "חברת הכנסת שרן השכל (הליכוד) וקרולין גליק (הימין החדש) מספרות על האתגרים בניהול קמפיין הבחירות. השכל: \"חוששת שנקום למחרת בבוקר עם ממשלת שמאל\"",
+      "id": "341183",
+      "published": "",
+      "updated": "",
+      "content": {
+        "content": "חברת הכנסת שרן השכל (הליכוד) וקרולין גליק (הימין החדש) מספרות על האתגרים בניהול קמפיין הבחירות. השכל: \"חוששת שנקום למחרת בבוקר עם ממשלת שמאל\"",
+        "type": "html"
+      },
+      "link": {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.20il.co.il/mobile-post/?id=341183&native=true&shareable=true&showcontext=true&title=%D7%91%D7%97%D7%99%D7%A8%D7%95%D7%AA%202019"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://www.20il.co.il/wp-content/uploads/2019/03/%D7%A7%D7%A8%D7%95%D7%9C%D7%99%D7%9F-%D7%92%D7%9C%D7%99%D7%A7.jpg",
+              "type": "image",
+              "scale": "small",
+              "key": "image_base"
+            },
+            {
+              "src": "https://www.20il.co.il/wp-content/uploads/2019/03/%D7%A7%D7%A8%D7%95%D7%9C%D7%99%D7%9F-%D7%92%D7%9C%D7%99%D7%A7.jpg",
+              "type": "image",
+              "scale": "large",
+              "key": "image_base_2"
+            }
+          ]
+        }
+      ],
+      "author": {
+        "name": ""
+      }
+    },
+    {
+      "type": {
+        "value": "link"
+      },
+      "title": "כשאורן חזן \"ירה\" בזחאלקה: תלונה על קריאה לרצח בעקבות סרטון הבחירות של 'צומת'",
+      "summary": "הטוב הרע והנתבע? אורן חזן פרסם סרטון בחירות קיצוני בו הוא נראה יורה ביו\"ר מפלגת בל\"ד והורג אותו זחאלקה הגיש תלונה במשטרה על \"הסתה ברורה וחד משמעית לרצח איש ציבור\"",
+      "id": "341035",
+      "published": "",
+      "updated": "",
+      "content": {
+        "content": "הטוב הרע והנתבע? אורן חזן פרסם סרטון בחירות קיצוני בו הוא נראה יורה ביו\"ר מפלגת בל\"ד והורג אותו זחאלקה הגיש תלונה במשטרה על \"הסתה ברורה וחד משמעית לרצח איש ציבור\"",
+        "type": "html"
+      },
+      "link": {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.20il.co.il/mobile-post/?id=341035&native=true&shareable=true&showcontext=true&title=%D7%90%D7%A7%D7%98%D7%95%D7%90%D7%9C%D7%99%D7%94%20%D7%95%D7%97%D7%93%D7%A9%D7%95%D7%AA"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://www.20il.co.il/wp-content/uploads/2019/03/%D7%97%D7%96%D7%9F-1261x714.jpg",
+              "type": "image",
+              "scale": "small",
+              "key": "image_base"
+            },
+            {
+              "src": "https://www.20il.co.il/wp-content/uploads/2019/03/%D7%97%D7%96%D7%9F-1261x714.jpg",
+              "type": "image",
+              "scale": "large",
+              "key": "image_base_2"
+            }
+          ]
+        }
+      ],
+      "author": {
+        "name": ""
+      }
+    },
+    {
+      "type": {
+        "value": "link"
+      },
+      "title": "גנץ מודיע: \"לא אשב עם נתניהו בממשלה\"",
+      "summary": "\"הדברים בהקלטה נאמרו לפני שנחשפו במלואם פרטי כתבי האישום החמורים נגד נתניהו\": יו\"ר 'כחול לבן' בני גנץ מגיב להקלטות מלפני שנה בהן אמר על פרשת רכש הצוללת כי \"לא הייתה שחיתות של הדרג המדיני בפרשה\"",
+      "id": "340770",
+      "published": "",
+      "updated": "",
+      "content": {
+        "content": "\"הדברים בהקלטה נאמרו לפני שנחשפו במלואם פרטי כתבי האישום החמורים נגד נתניהו\": יו\"ר 'כחול לבן' בני גנץ מגיב להקלטות מלפני שנה בהן אמר על פרשת רכש הצוללת כי \"לא הייתה שחיתות של הדרג המדיני בפרשה\"",
+        "type": "html"
+      },
+      "link": {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.20il.co.il/mobile-post/?id=340770&native=true&shareable=true&showcontext=true&title=%D7%90%D7%A7%D7%98%D7%95%D7%90%D7%9C%D7%99%D7%94%20%D7%95%D7%97%D7%93%D7%A9%D7%95%D7%AA"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://www.20il.co.il/wp-content/uploads/2019/02/%D7%92%D7%A0%D7%A5-F190219TNFF32-1270x714.jpg",
+              "type": "image",
+              "scale": "small",
+              "key": "image_base"
+            },
+            {
+              "src": "https://www.20il.co.il/wp-content/uploads/2019/02/%D7%92%D7%A0%D7%A5-F190219TNFF32-1270x714.jpg",
+              "type": "image",
+              "scale": "large",
+              "key": "image_base_2"
+            }
+          ]
+        }
+      ],
+      "author": {
+        "name": ""
+      }
+    },
+    {
+      "type": {
+        "value": "link"
+      },
+      "title": "שקד מציגה: הבושם שהשמאלנים פחות יאהבו",
+      "summary": "פרסומת לבושם של דיור או קמפיין בחירות? 'הימין החדש' בסרטון חדש בכיכובה של שרת המשפטים",
+      "id": "340621",
+      "published": "",
+      "updated": "",
+      "content": {
+        "content": "פרסומת לבושם של דיור או קמפיין בחירות? 'הימין החדש' בסרטון חדש בכיכובה של שרת המשפטים",
+        "type": "html"
+      },
+      "link": {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.20il.co.il/mobile-post/?id=340621&native=true&shareable=true&showcontext=true&title=%D7%91%D7%97%D7%99%D7%A8%D7%95%D7%AA%202019"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://www.20il.co.il/wp-content/uploads/2019/03/%D7%A4%D7%90%D7%A9%D7%99%D7%96%D7%9D-%D7%90%D7%99%D7%9C%D7%AA-%D7%A9%D7%A7%D7%93.jpg",
+              "type": "image",
+              "scale": "small",
+              "key": "image_base"
+            },
+            {
+              "src": "https://www.20il.co.il/wp-content/uploads/2019/03/%D7%A4%D7%90%D7%A9%D7%99%D7%96%D7%9D-%D7%90%D7%99%D7%9C%D7%AA-%D7%A9%D7%A7%D7%93.jpg",
+              "type": "image",
+              "scale": "large",
+              "key": "image_base_2"
+            }
+          ]
+        }
+      ],
+      "author": {
+        "name": ""
+      }
+    },
+    {
+      "type": {
+        "value": "link"
+      },
+      "title": "הליכוד: לפיד וגנץ מפריחים טענות הזויות",
+      "summary": "ברקע הירידה בסקרים, 'כחול לבן' הכריזו במסיבת עיתונאים כי יקימו \"ועדת חקירה ממלכתית שתחקור את הפרשה והמעורבים\" • הליכוד: \"ראש הממשלה נתניהו לא קיבל שקל אחד מעסקת הצוללות\"",
+      "id": "340536",
+      "published": "",
+      "updated": "",
+      "content": {
+        "content": "ברקע הירידה בסקרים, 'כחול לבן' הכריזו במסיבת עיתונאים כי יקימו \"ועדת חקירה ממלכתית שתחקור את הפרשה והמעורבים\" • הליכוד: \"ראש הממשלה נתניהו לא קיבל שקל אחד מעסקת הצוללות\"",
+        "type": "html"
+      },
+      "link": {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.20il.co.il/mobile-post/?id=340536&native=true&shareable=true&showcontext=true&title=%D7%90%D7%A7%D7%98%D7%95%D7%90%D7%9C%D7%99%D7%94%20%D7%95%D7%97%D7%93%D7%A9%D7%95%D7%AA"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://www.20il.co.il/wp-content/uploads/2019/03/%D7%9B%D7%97%D7%95%D7%9C-%D7%9C%D7%91%D7%9F-F190318TNFF42-1270x714.jpg",
+              "type": "image",
+              "scale": "small",
+              "key": "image_base"
+            },
+            {
+              "src": "https://www.20il.co.il/wp-content/uploads/2019/03/%D7%9B%D7%97%D7%95%D7%9C-%D7%9C%D7%91%D7%9F-F190318TNFF42-1270x714.jpg",
+              "type": "image",
+              "scale": "large",
+              "key": "image_base_2"
+            }
+          ]
+        }
+      ],
+      "author": {
+        "name": ""
+      }
+    },
+    {
+      "type": {
+        "value": "link"
+      },
+      "title": "תכנית 100 הימים של שקד למהפכה משפטית",
+      "summary": "לאחר שמינתה שופטים רבים בקדנציה הנוכחית, איילת שקד חושפת את תכניתה להמשך המהפכה המשפטית אם תמשיך לקדנציה נוספת ומציעה שינויים בשיטת מינוי השופטים, השלמת חוק יסוד החקיקה והגדרת סמכויות היועמ\"ש",
+      "id": "340087",
+      "published": "",
+      "updated": "",
+      "content": {
+        "content": "לאחר שמינתה שופטים רבים בקדנציה הנוכחית, איילת שקד חושפת את תכניתה להמשך המהפכה המשפטית אם תמשיך לקדנציה נוספת ומציעה שינויים בשיטת מינוי השופטים, השלמת חוק יסוד החקיקה והגדרת סמכויות היועמ\"ש",
+        "type": "html"
+      },
+      "link": {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.20il.co.il/mobile-post/?id=340087&native=true&shareable=true&showcontext=true&title=%D7%90%D7%A7%D7%98%D7%95%D7%90%D7%9C%D7%99%D7%94%20%D7%95%D7%97%D7%93%D7%A9%D7%95%D7%AA"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://www.20il.co.il/wp-content/uploads/2019/03/%D7%A9%D7%A7%D7%93-1270x714.jpg",
+              "type": "image",
+              "scale": "small",
+              "key": "image_base"
+            },
+            {
+              "src": "https://www.20il.co.il/wp-content/uploads/2019/03/%D7%A9%D7%A7%D7%93-1270x714.jpg",
+              "type": "image",
+              "scale": "large",
+              "key": "image_base_2"
+            }
+          ]
+        }
+      ],
+      "author": {
+        "name": ""
+      }
+    },
+    {
+      "type": {
+        "value": "link"
+      },
+      "title": "סמוטריץ׳ יוזם: ביטול סמכות בג״ץ לפסול מועמדים לכנסת",
+      "summary": "יו״ר מפלגת ׳האיחוד הלאומי׳, ח״כ בצלאל סמוטריץ׳, דרש לקיים כינוס פגרה לביטול סמכות בג״ץ לפסול מועמדים לכנסת בעקבות פסילתו של מועמד ׳עוצמה יהודית׳ ד״ר מיכאל בן ארי מלהתמודד: ״על הכנסת להחזיר לעם ולעצמה את הדמוקרטיה״",
+      "id": "340043",
+      "published": "",
+      "updated": "",
+      "content": {
+        "content": "יו״ר מפלגת ׳האיחוד הלאומי׳, ח״כ בצלאל סמוטריץ׳, דרש לקיים כינוס פגרה לביטול סמכות בג״ץ לפסול מועמדים לכנסת בעקבות פסילתו של מועמד ׳עוצמה יהודית׳ ד״ר מיכאל בן ארי מלהתמודד: ״על הכנסת להחזיר לעם ולעצמה את הדמוקרטיה״",
+        "type": "html"
+      },
+      "link": {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.20il.co.il/mobile-post/?id=340043&native=true&shareable=true&showcontext=true&title=%D7%90%D7%A7%D7%98%D7%95%D7%90%D7%9C%D7%99%D7%94%20%D7%95%D7%97%D7%93%D7%A9%D7%95%D7%AA"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://www.20il.co.il/wp-content/uploads/2019/01/F180307YS006-1270x714.jpg",
+              "type": "image",
+              "scale": "small",
+              "key": "image_base"
+            },
+            {
+              "src": "https://www.20il.co.il/wp-content/uploads/2019/01/F180307YS006-1270x714.jpg",
+              "type": "image",
+              "scale": "large",
+              "key": "image_base_2"
+            }
+          ]
+        }
+      ],
+      "author": {
+        "name": ""
+      }
+    },
+    {
+      "type": {
+        "value": "link"
+      },
+      "title": "אחרי פסילת בן ארי: אלה דרישות 'עוצמה יהודית' מאיחוד מפלגות הימין",
+      "summary": "מרזל שר ובן גביר בוועדה למינוי שופטים ובוועדת חוקה: המפלגה שקיבלה הערב כרטיס אדום מבית המשפט העליון לא מוותרת • מנכ\"ל הבית היהודי: דוחים על הסף את \"חבילת הפיצוי\"",
+      "id": "339963",
+      "published": "",
+      "updated": "",
+      "content": {
+        "content": "מרזל שר ובן גביר בוועדה למינוי שופטים ובוועדת חוקה: המפלגה שקיבלה הערב כרטיס אדום מבית המשפט העליון לא מוותרת • מנכ\"ל הבית היהודי: דוחים על הסף את \"חבילת הפיצוי\"",
+        "type": "html"
+      },
+      "link": {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.20il.co.il/mobile-post/?id=339963&native=true&shareable=true&showcontext=true&title=%D7%90%D7%A7%D7%98%D7%95%D7%90%D7%9C%D7%99%D7%94%20%D7%95%D7%97%D7%93%D7%A9%D7%95%D7%AA"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://www.20il.co.il/wp-content/uploads/2019/03/%D7%A2%D7%95%D7%A6%D7%9E%D7%94-%D7%99%D7%94%D7%95%D7%93%D7%99%D7%AA-F190317YS004-1270x714.jpg",
+              "type": "image",
+              "scale": "small",
+              "key": "image_base"
+            },
+            {
+              "src": "https://www.20il.co.il/wp-content/uploads/2019/03/%D7%A2%D7%95%D7%A6%D7%9E%D7%94-%D7%99%D7%94%D7%95%D7%93%D7%99%D7%AA-F190317YS004-1270x714.jpg",
+              "type": "image",
+              "scale": "large",
+              "key": "image_base_2"
+            }
+          ]
+        }
+      ],
+      "author": {
+        "name": ""
+      }
+    },
+    {
+      "type": {
+        "value": "link"
+      },
+      "title": "בבית החולים בנהריה זועמים: \"בני גנץ כפה עלינו ביקור\"",
+      "summary": "יו\"ר 'כחול לבן' הגיע במפתיע לביקור ב'מרכז הרפואי לגליל' שבנהריה עם בכירי המפלגה וצלם מטעמו. הנהלת בית החולים: \"גנץ כפה עלינו את הביקור. מנהל בית החולים רואה בכך תעמולת בחירות\"",
+      "id": "339858",
+      "published": "",
+      "updated": "",
+      "content": {
+        "content": "יו\"ר 'כחול לבן' הגיע במפתיע לביקור ב'מרכז הרפואי לגליל' שבנהריה עם בכירי המפלגה וצלם מטעמו. הנהלת בית החולים: \"גנץ כפה עלינו את הביקור. מנהל בית החולים רואה בכך תעמולת בחירות\"",
+        "type": "html"
+      },
+      "link": {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.20il.co.il/mobile-post/?id=339858&native=true&shareable=true&showcontext=true&title=%D7%91%D7%97%D7%99%D7%A8%D7%95%D7%AA%202019"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://www.20il.co.il/wp-content/uploads/2019/01/%D7%91%D7%A0%D7%99-%D7%92%D7%A0%D7%A5-1270x714.jpg",
+              "type": "image",
+              "scale": "small",
+              "key": "image_base"
+            },
+            {
+              "src": "https://www.20il.co.il/wp-content/uploads/2019/01/%D7%91%D7%A0%D7%99-%D7%92%D7%A0%D7%A5-1270x714.jpg",
+              "type": "image",
+              "scale": "large",
+              "key": "image_base_2"
+            }
+          ]
+        }
+      ],
+      "author": {
+        "name": ""
+      }
+    },
+    {
+      "type": {
+        "value": "link"
+      },
+      "title": "דרמה בעליון: מיכאל בן ארי נפסל, בל\"ד הוכשרה",
+      "summary": "לאחר שוועדת הבחירות המרכזית קבעה כי אין לפסול את מועמדותו של יו\"ר 'עוצמה יהודית', החליט בית המשפט העליון לקבל את עתירות השמאל ולא לאפשר לו להתמודד לכנסת. איחוד מפלגות הימין: \"בושה וחרפה! אנחנו נעצור את ההשתוללות האקטיביסטית\"",
+      "id": "339667",
+      "published": "",
+      "updated": "",
+      "content": {
+        "content": "לאחר שוועדת הבחירות המרכזית קבעה כי אין לפסול את מועמדותו של יו\"ר 'עוצמה יהודית', החליט בית המשפט העליון לקבל את עתירות השמאל ולא לאפשר לו להתמודד לכנסת. איחוד מפלגות הימין: \"בושה וחרפה! אנחנו נעצור את ההשתוללות האקטיביסטית\"",
+        "type": "html"
+      },
+      "link": {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.20il.co.il/mobile-post/?id=339667&native=true&shareable=true&showcontext=true&title=%D7%91%D7%97%D7%99%D7%A8%D7%95%D7%AA%202019"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://www.20il.co.il/wp-content/uploads/2019/03/%D7%A1%D7%A4%D7%9C%D7%99%D7%98-%D7%91%D7%9F-%D7%90%D7%A8%D7%99-%D7%9B%D7%A1%D7%99%D7%A3-e1552848334611-1270x714.jpg",
+              "type": "image",
+              "scale": "small",
+              "key": "image_base"
+            },
+            {
+              "src": "https://www.20il.co.il/wp-content/uploads/2019/03/%D7%A1%D7%A4%D7%9C%D7%99%D7%98-%D7%91%D7%9F-%D7%90%D7%A8%D7%99-%D7%9B%D7%A1%D7%99%D7%A3-e1552848334611-1270x714.jpg",
+              "type": "image",
+              "scale": "large",
+              "key": "image_base_2"
+            }
+          ]
+        }
+      ],
+      "author": {
+        "name": ""
+      }
+    },
+    {
+      "type": {
+        "value": "link"
+      },
+      "title": "איילת שקד: \"הפיגוע באריאל – בגלל המשפטיזציה\"",
+      "summary": "באירוע השקת הקמפיין החדש של מפלגת 'הימין החדש' תקפו השרים בנט ושקד את המשפטיזציה בצה\"ל והבטיחו לטפל בה: \"כדי לנצח את חמאס, צריך לשחרר את צה\"ל מבג\"ץ\"",
+      "id": "339365",
+      "published": "",
+      "updated": "",
+      "content": {
+        "content": "באירוע השקת הקמפיין החדש של מפלגת 'הימין החדש' תקפו השרים בנט ושקד את המשפטיזציה בצה\"ל והבטיחו לטפל בה: \"כדי לנצח את חמאס, צריך לשחרר את צה\"ל מבג\"ץ\"",
+        "type": "html"
+      },
+      "link": {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.20il.co.il/mobile-post/?id=339365&native=true&shareable=true&showcontext=true&title=%D7%91%D7%97%D7%99%D7%A8%D7%95%D7%AA%202019"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://www.20il.co.il/wp-content/uploads/2019/03/777777777777.jpeg",
+              "type": "image",
+              "scale": "small",
+              "key": "image_base"
+            },
+            {
+              "src": "https://www.20il.co.il/wp-content/uploads/2019/03/777777777777.jpeg",
+              "type": "image",
+              "scale": "large",
+              "key": "image_base_2"
+            }
+          ]
+        }
+      ],
+      "author": {
+        "name": ""
+      }
+    },
+    {
+      "type": {
+        "value": "link"
+      },
+      "title": "האם ברוך מרזל יתמנה לתפקיד שר?",
+      "summary": "במידה וד\"ר מיכאל בן ארי ייפסל על ידי בג\"ץ ולא יוכל להתמודד ברשימת איחוד מפלגות הימין לכנסת, ידרשו אנשי 'עוצמה יהודית' שברוך מרזל ימונה לשר",
+      "id": "339323",
+      "published": "",
+      "updated": "",
+      "content": {
+        "content": "במידה וד\"ר מיכאל בן ארי ייפסל על ידי בג\"ץ ולא יוכל להתמודד ברשימת איחוד מפלגות הימין לכנסת, ידרשו אנשי 'עוצמה יהודית' שברוך מרזל ימונה לשר",
+        "type": "html"
+      },
+      "link": {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.20il.co.il/mobile-post/?id=339323&native=true&shareable=true&showcontext=true&title=%D7%91%D7%97%D7%99%D7%A8%D7%95%D7%AA%202019"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://www.20il.co.il/wp-content/uploads/2019/03/%D7%91%D7%A8%D7%95%D7%9A-%D7%9E%D7%A8%D7%96%D7%9C-2-1270x714.jpg",
+              "type": "image",
+              "scale": "small",
+              "key": "image_base"
+            },
+            {
+              "src": "https://www.20il.co.il/wp-content/uploads/2019/03/%D7%91%D7%A8%D7%95%D7%9A-%D7%9E%D7%A8%D7%96%D7%9C-2-1270x714.jpg",
+              "type": "image",
+              "scale": "large",
+              "key": "image_base_2"
+            }
+          ]
+        }
+      ],
+      "author": {
+        "name": ""
+      }
+    },
+    {
+      "type": {
+        "value": "link"
+      },
+      "title": "הליכוד טוען: \"המשטר האיראני תומך בגנץ\"",
+      "summary": "אחרי שאנשי 'כחול לבן' האשימו אותם בהפצת סיפור הפריצה לטלפון הסלולרי של בני גנץ ב'ליכוד' מכחישים ותוקפים בחזרה: \"האיראנים רוצים את גנץ בשלטון\"",
+      "id": "339147",
+      "published": "",
+      "updated": "",
+      "content": {
+        "content": "אחרי שאנשי 'כחול לבן' האשימו אותם בהפצת סיפור הפריצה לטלפון הסלולרי של בני גנץ ב'ליכוד' מכחישים ותוקפים בחזרה: \"האיראנים רוצים את גנץ בשלטון\"",
+        "type": "html"
+      },
+      "link": {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.20il.co.il/mobile-post/?id=339147&native=true&shareable=true&showcontext=true&title=%D7%91%D7%97%D7%99%D7%A8%D7%95%D7%AA%202019"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://www.20il.co.il/wp-content/uploads/2018/12/%D7%A1%D7%A4%D7%9C%D7%99%D7%98-%D7%92%D7%A0%D7%A5-%D7%A0%D7%AA%D7%A0%D7%99%D7%94%D7%95-%D7%9C%D7%A4%D7%99%D7%93-1270x714.jpg",
+              "type": "image",
+              "scale": "small",
+              "key": "image_base"
+            },
+            {
+              "src": "https://www.20il.co.il/wp-content/uploads/2018/12/%D7%A1%D7%A4%D7%9C%D7%99%D7%98-%D7%92%D7%A0%D7%A5-%D7%A0%D7%AA%D7%A0%D7%99%D7%94%D7%95-%D7%9C%D7%A4%D7%99%D7%93-1270x714.jpg",
+              "type": "image",
+              "scale": "large",
+              "key": "image_base_2"
+            }
+          ]
+        }
+      ],
+      "author": {
+        "name": ""
+      }
+    },
+    {
+      "type": {
+        "value": "link"
+      },
+      "title": "גנץ על פרשת הטלפון הפרוץ: \"חטטנות, סיפור רכילותי\"",
+      "summary": "יו\"ר \"כחול לבן\" התייחס לדיווחים על הפריצה למכשיר הסלולר שלו ע\"י איראן: \"סיפור הזוי, אני לא נתון לסחיטה\"",
+      "id": "339121",
+      "published": "",
+      "updated": "",
+      "content": {
+        "content": "יו\"ר \"כחול לבן\" התייחס לדיווחים על הפריצה למכשיר הסלולר שלו ע\"י איראן: \"סיפור הזוי, אני לא נתון לסחיטה\"",
+        "type": "html"
+      },
+      "link": {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.20il.co.il/mobile-post/?id=339121&native=true&shareable=true&showcontext=true&title=%D7%91%D7%97%D7%99%D7%A8%D7%95%D7%AA%202019"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://www.20il.co.il/wp-content/uploads/2019/03/%D7%99%D7%99%D7%90%D7%90%D7%90.png",
+              "type": "image",
+              "scale": "small",
+              "key": "image_base"
+            },
+            {
+              "src": "https://www.20il.co.il/wp-content/uploads/2019/03/%D7%99%D7%99%D7%90%D7%90%D7%90.png",
+              "type": "image",
+              "scale": "large",
+              "key": "image_base_2"
+            }
+          ]
+        }
+      ],
+      "author": {
+        "name": ""
+      }
+    },
+    {
+      "type": {
+        "value": "link"
+      },
+      "title": "גנץ: \"לא היה מידע אינטימי בטלפון שלי\"",
+      "summary": "יו\"ר \"כחול לבן\" הכחיש כי היו פרטים אינטימיים במכשיר הסלולרי שאליו הצליחו האיראנים לפרוץ. רה\"מ נתניהו: \"השב\"כ לא עדכן אותי על הפריצה לטלפון של גנץ\"",
+      "id": "339094",
+      "published": "",
+      "updated": "",
+      "content": {
+        "content": "יו\"ר \"כחול לבן\" הכחיש כי היו פרטים אינטימיים במכשיר הסלולרי שאליו הצליחו האיראנים לפרוץ. רה\"מ נתניהו: \"השב\"כ לא עדכן אותי על הפריצה לטלפון של גנץ\"",
+        "type": "html"
+      },
+      "link": {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.20il.co.il/mobile-post/?id=339094&native=true&shareable=true&showcontext=true&title=%D7%91%D7%97%D7%99%D7%A8%D7%95%D7%AA%202019"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://www.20il.co.il/wp-content/uploads/2018/12/%D7%91%D7%A0%D7%99-%D7%92%D7%A0%D7%A53-1270x714.jpg",
+              "type": "image",
+              "scale": "small",
+              "key": "image_base"
+            },
+            {
+              "src": "https://www.20il.co.il/wp-content/uploads/2018/12/%D7%91%D7%A0%D7%99-%D7%92%D7%A0%D7%A53-1270x714.jpg",
+              "type": "image",
+              "scale": "large",
+              "key": "image_base_2"
+            }
+          ]
+        }
+      ],
+      "author": {
+        "name": ""
+      }
+    },
+    {
+      "type": {
+        "value": "link"
+      },
+      "title": "שתיקת הכבשים מודל 2019 | פרשנות",
+      "summary": "פוליטיקאים והעיתונאים שממהרים לצקצק דווקא מילאו פיהם מים בכל הנוגע להתבטאות הקשה של יעל אבקסיס ולפריצה האיראנית לטלפון של גנץ, ה\"טעות\" של חמאס חשפה צביעות, וגם: בלאגן במטה 'כחול לבן' | סיכום השבוע במערכת הבחירות",
+      "id": "339054",
+      "published": "",
+      "updated": "",
+      "content": {
+        "content": "פוליטיקאים והעיתונאים שממהרים לצקצק דווקא מילאו פיהם מים בכל הנוגע להתבטאות הקשה של יעל אבקסיס ולפריצה האיראנית לטלפון של גנץ, ה\"טעות\" של חמאס חשפה צביעות, וגם: בלאגן במטה 'כחול לבן' | סיכום השבוע במערכת הבחירות",
+        "type": "html"
+      },
+      "link": {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.20il.co.il/mobile-post/?id=339054&native=true&shareable=true&showcontext=true&title=%D7%91%D7%97%D7%99%D7%A8%D7%95%D7%AA%202019"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://www.20il.co.il/wp-content/uploads/2019/03/%D7%92%D7%A0%D7%A5-1270x714.jpg",
+              "type": "image",
+              "scale": "small",
+              "key": "image_base"
+            },
+            {
+              "src": "https://www.20il.co.il/wp-content/uploads/2019/03/%D7%92%D7%A0%D7%A5-1270x714.jpg",
+              "type": "image",
+              "scale": "large",
+              "key": "image_base_2"
+            }
+          ]
+        }
+      ],
+      "author": {
+        "name": ""
+      }
+    },
+    {
+      "type": {
+        "value": "link"
+      },
+      "title": "בלבול \"כחול-לבן\": צפו בח\"כית שלא מצליחה להסביר את המצע",
+      "summary": "מה הן עמדות \"כחול לבן\" לגבי ההתיישבות ביו\"ש? ח\"כ יעל גרמן, לשעבר מרצ והיום במקום ה-13 ברשימה, מתבלבלת ומתקשה להסביר לשואלים",
+      "id": "338955",
+      "published": "",
+      "updated": "",
+      "content": {
+        "content": "מה הן עמדות \"כחול לבן\" לגבי ההתיישבות ביו\"ש? ח\"כ יעל גרמן, לשעבר מרצ והיום במקום ה-13 ברשימה, מתבלבלת ומתקשה להסביר לשואלים",
+        "type": "html"
+      },
+      "link": {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.20il.co.il/mobile-post/?id=338955&native=true&shareable=true&showcontext=true&title=%D7%91%D7%97%D7%99%D7%A8%D7%95%D7%AA%202019"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://www.20il.co.il/wp-content/uploads/2019/03/1-47.jpg",
+              "type": "image",
+              "scale": "small",
+              "key": "image_base"
+            },
+            {
+              "src": "https://www.20il.co.il/wp-content/uploads/2019/03/1-47.jpg",
+              "type": "image",
+              "scale": "large",
+              "key": "image_base_2"
+            }
+          ]
+        }
+      ],
+      "author": {
+        "name": ""
+      }
+    },
+    {
+      "type": {
+        "value": "link"
+      },
+      "title": "גנץ: \"נדרשת פעילות התקפית שתשחזר את ההרתעה\"",
+      "summary": "הרמטכ\"ל לשעבר ויו\"ר 'כחול לבן' מגיב לירי הטילים \"החמור\" הערב לגוש דן ומבטיח: \"נישאר ממלכתיים ונגבה את צה\"ל בפעילותו\"",
+      "id": "338695",
+      "published": "",
+      "updated": "",
+      "content": {
+        "content": "הרמטכ\"ל לשעבר ויו\"ר 'כחול לבן' מגיב לירי הטילים \"החמור\" הערב לגוש דן ומבטיח: \"נישאר ממלכתיים ונגבה את צה\"ל בפעילותו\"",
+        "type": "html"
+      },
+      "link": {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.20il.co.il/mobile-post/?id=338695&native=true&shareable=true&showcontext=true&title=%D7%90%D7%A7%D7%98%D7%95%D7%90%D7%9C%D7%99%D7%94%20%D7%95%D7%97%D7%93%D7%A9%D7%95%D7%AA"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://www.20il.co.il/wp-content/uploads/2019/03/%D7%92%D7%A0%D7%A5-%D7%91%D7%A7%D7%A8%D7%99%D7%99%D7%94-1270x714.jpg",
+              "type": "image",
+              "scale": "small",
+              "key": "image_base"
+            },
+            {
+              "src": "https://www.20il.co.il/wp-content/uploads/2019/03/%D7%92%D7%A0%D7%A5-%D7%91%D7%A7%D7%A8%D7%99%D7%99%D7%94-1270x714.jpg",
+              "type": "image",
+              "scale": "large",
+              "key": "image_base_2"
+            }
+          ]
+        }
+      ],
+      "author": {
+        "name": ""
+      }
+    },
+    {
+      "type": {
+        "value": "link"
+      },
+      "title": "איראן פרצה לטלפון הנייד של בני גנץ",
+      "summary": "בחברת 'החדשות' חושפים הערב כי לפני כחמישה שבועות הגיעו בכירים בשב\"כ אל העומד בראש 'כחול לבן' והודיעו לו כי האיראנים פרצו וגנבו מידע מהמכשיר הסלולרי שלו • 'כחול לבן': \"תזמון תמוה\"",
+      "id": "338526",
+      "published": "",
+      "updated": "",
+      "content": {
+        "content": "בחברת 'החדשות' חושפים הערב כי לפני כחמישה שבועות הגיעו בכירים בשב\"כ אל העומד בראש 'כחול לבן' והודיעו לו כי האיראנים פרצו וגנבו מידע מהמכשיר הסלולרי שלו • 'כחול לבן': \"תזמון תמוה\"",
+        "type": "html"
+      },
+      "link": {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.20il.co.il/mobile-post/?id=338526&native=true&shareable=true&showcontext=true&title=%D7%90%D7%A7%D7%98%D7%95%D7%90%D7%9C%D7%99%D7%94%20%D7%95%D7%97%D7%93%D7%A9%D7%95%D7%AA"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "src": "https://www.20il.co.il/wp-content/uploads/2019/03/%D7%92%D7%A0%D7%A5-%D7%91%D7%98%D7%9C%D7%A4%D7%95%D7%9F-F190313GY01-%D7%A2%D7%A8%D7%95%D7%9A-1270x714.png",
+              "type": "image",
+              "scale": "small",
+              "key": "image_base"
+            },
+            {
+              "src": "https://www.20il.co.il/wp-content/uploads/2019/03/%D7%92%D7%A0%D7%A5-%D7%91%D7%98%D7%9C%D7%A4%D7%95%D7%9F-F190313GY01-%D7%A2%D7%A8%D7%95%D7%9A-1270x714.png",
+              "type": "image",
+              "scale": "large",
+              "key": "image_base_2"
+            }
+          ]
+        }
+      ],
+      "author": {
+        "name": ""
+      }
+    }
+  ],
+  "type": {
+    "value": "feed"
+  }
+}

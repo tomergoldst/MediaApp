@@ -11,7 +11,7 @@ import androidx.recyclerview.widget.RecyclerView
 import androidx.swiperefreshlayout.widget.CircularProgressDrawable
 import com.tomergoldst.mediaapp.GlideApp
 import com.tomergoldst.mediaapp.R
-import com.tomergoldst.mediaapp.config.Constants
+import com.tomergoldst.mediaapp.data.remote.Constants
 import com.tomergoldst.mediaapp.models.Entry
 
 class LinkEntryViewHolder(
@@ -42,7 +42,8 @@ class LinkEntryViewHolder(
             start()
         }
 
-        val mediaItem = entry.getMediaGroupOfType(Constants.TYPE_IMAGE)?.getMediaItem(Constants.IMAGE_BASE)
+        val mediaItem = entry.getMediaGroupOfType(Constants.TYPE_IMAGE)?.getMediaItem(
+            Constants.IMAGE_BASE)
         mediaItem?.let {
             GlideApp.with(context)
                 .load(it.src)

@@ -1,4 +1,4 @@
-package com.tomergoldst.mediaapp.config
+package com.tomergoldst.mediaapp.data.remote
 
 object Constants {
 
