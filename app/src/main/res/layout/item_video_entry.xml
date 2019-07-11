@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:contentPaddingBottom="16dp">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/videoEntryImv"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="centerCrop"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:src="@tools:sample/backgrounds/scenic" />
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/videoEntryPlayVideoImv"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:padding="8dp"
+            android:background="@drawable/bg_play_video"
+            android:src="@drawable/ic_play_arrow_white_24dp"
+            android:tint="@color/colorIconOnPrimary"
+            app:layout_constraintBottom_toBottomOf="@+id/videoEntryImv"
+            app:layout_constraintEnd_toEndOf="@+id/videoEntryImv"
+            app:layout_constraintStart_toStartOf="@+id/videoEntryImv"
+            app:layout_constraintTop_toTopOf="@+id/videoEntryImv" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/videoEntryTitleTxv"
+            style="?textAppearanceHeadline6"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginEnd="16dp"
+            android:textDirection="locale"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/videoEntryImv"
+            tools:text="Title" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/videoEntrySummaryTxv"
+            style="?textAppearanceBody1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="16dp"
+            android:textColor="?android:textColorSecondary"
+            android:textDirection="locale"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/videoEntryTitleTxv"
+            tools:text="This is a summary for this video entry" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</com.google.android.material.card.MaterialCardView>
