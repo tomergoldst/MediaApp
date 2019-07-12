@@ -8,6 +8,8 @@ import com.tomergoldst.mediaapp.data.remote.RetrofitClient
 import com.tomergoldst.mediaapp.ui.MainViewModel
 import org.koin.androidx.viewmodel.dsl.viewModel
 import org.koin.core.module.Module
+import org.koin.core.qualifier.named
+import org.koin.dsl.bind
 import org.koin.dsl.module
 import retrofit2.Retrofit
 
@@ -16,8 +18,8 @@ private val mediaService: MediaService = retrofit.create(MediaService::class.jav
 
 val appModules: Module = module {
     single { mediaService }
-    single { MediaRemoteDataSource( mediaService = get()) as DataSource }
-    single { Repository(mediaRemoteService = get()) }
-    viewModel { MainViewModel(repository = get()) }
+    single<DataSource>(named("MediaRemoteService")) { MediaRemoteDataSource( mediaService = get()) }
+    single(named("Repository")) { Repository(mediaRemoteService = get(named("MediaRemoteService"))) }
+    viewModel { MainViewModel(repository = get(named("Repository"))) }
 }
 
