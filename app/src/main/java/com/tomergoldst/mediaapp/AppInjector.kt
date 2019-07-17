@@ -9,7 +9,6 @@ import com.tomergoldst.mediaapp.ui.MainViewModel
 import org.koin.androidx.viewmodel.dsl.viewModel
 import org.koin.core.module.Module
 import org.koin.core.qualifier.named
-import org.koin.dsl.bind
 import org.koin.dsl.module
 import retrofit2.Retrofit
 
