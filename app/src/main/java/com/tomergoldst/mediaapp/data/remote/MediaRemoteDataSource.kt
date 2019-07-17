@@ -38,10 +38,9 @@ class MediaRemoteDataSource(
                         response: Response<MediaResponse>
                     ) {
                         entries.addAll(response.body()!!.entry)
+                        callback.onEntriesLoaded(entries)
                     }
                 })
-
-                callback.onEntriesLoaded(entries)
             }
         })
 
